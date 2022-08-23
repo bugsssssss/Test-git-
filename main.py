@@ -1,1 +1,9 @@
-print('Hello world!')
+from unicodedata import name
+
+
+def main():
+    print('Hello world!')
+
+
+if __name__ == '__main__':
+    main()
