@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from unicodedata import name
 
 
@@ -7,3 +8,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+=======
+print('Hello world! I\'m a unit')
+>>>>>>> test
